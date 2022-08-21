@@ -1,2 +1,2 @@
 # spring-cloud-gcp
-Bootstrapping the Application Frontend and Backend by building Guestbook application with Spring as backend and Thyme leaf for frontend.
+Guestbook app with Spring as backend, Thyme leaf for frontend, Cloud SQL for DB, Cloud Trace for reports.
