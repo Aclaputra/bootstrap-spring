@@ -5,8 +5,8 @@ Guestbook app with Spring as backend, Thyme leaf for frontend, Cloud SQL for DB,
 ![](./img/sql_1.jpg)
 ## sql 2 :
 ![](./img/sql_2.jpg)
-## sql 3 :
-![](./img/sql_3.jpg)
+<!-- ## sql 3 :
+![](./img/sql_3.jpg) -->
 ## sql 4 :
 ![](./img/sql_4.jpg)
 ## sql 5 :
